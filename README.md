@@ -2,7 +2,7 @@
 ## I am a NCU student.
 - 🔭I'm currently working on the BCG project.
 
-- 🌱 I’m currently learning how to program. Including python and matlab.
+- 🌱 I’m currently learning how to program, including python and matlab.
 
 - 🥅2022 Goals : Being able to program python and matlab in good skills.
 
