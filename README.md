@@ -1,6 +1,6 @@
 ### Hi there I'm 楊光👋
 ## I am a NCU student.
-- 🔭I'm currently working on BCG project.
+- 🔭I'm currently working on the BCG project.
 
 - 🌱 I’m currently learning how to program. Including python and matlab.
 
