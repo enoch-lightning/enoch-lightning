@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning how to program, including python and matlab.
 
-- 🥅2022 Goals : Being able to program python and matlab in good skills.
+- 🥅2022 Goals: Being able to program python and matlab in good skills.
 
-- ⚡Fun fact : I am learning how to dance.
+- ⚡Fun fact: I am learning how to dance.
 <!--
 **enoch-lightning/enoch-lightning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
